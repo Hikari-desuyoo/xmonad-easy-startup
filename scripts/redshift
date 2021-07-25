@@ -1,0 +1,2 @@
+redshift -x 
+redshift -t 4000:4000
